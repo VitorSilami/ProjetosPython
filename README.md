@@ -23,4 +23,5 @@ Repositório com 10 projetos práticos em **Python**, feitos para praticar lógi
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/SeuUsuario/NomeDoRepositorio.git
+git clone https://github.com/VitorSilami/ProjetosPython.git
+
